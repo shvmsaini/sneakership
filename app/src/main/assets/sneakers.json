@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "brand": "Puma",
+    "colorway": "Red",
+    "gender": "Male",
+    "size": 9,
+    "media": {
+      "imageUrl": "https://i.imgur.com/w2ePptI.png",
+      "smallImageUrl": "https://i.imgur.com/w2ePptI.png",
+      "thumbUrl": "https://i.imgur.com/w2ePptI.png"
+    },
+    "releaseDate": "2024-02-13",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Puma Air",
+    "title": "Puma Air Shoes Max",
+    "year": 2024
+  }
+]

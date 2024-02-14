@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SneakerShip</string>
+    <string name="not_found">Nothing to be found here.</string>
+    <string name="sneakership">SNEAKERSHIP</string>
+    <string name="search">Search…</string>
+    <string name="price_x">$%s</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="remove_cart">Remove from cart</string>
+    <string name="product_details">Product Details</string>
+    <string name="cart">Cart</string>
+    <string name="subtotal_price">Subtotal : $%s</string>
+    <string name="taxes_price">Taxes and charges : $%s</string>
+    <string name="popular">Popular</string>
+    <string name="sort_by">Sort by</string>
+    <string name="order_details">Order Details</string>
+    <string name="check_out">$ Check Out</string>
+    <string name="colour">Colour : </string>
+    <string name="size_uk">Size (uk) : </string>
+    <string name="price">Price : </string>
+    <string name="subtotal_x">Subtotal : $%d</string>
+    <string name="taxes_and_charges_x">Taxes and Charges : $%d</string>
+    <string name="total">Total : </string>
+    <string name="arrow_right">Arrow right</string>
+    <string name="arrow_left">Arrow Left</string>
+    <string name="price_descending">Price Descending</string>
+    <string name="price_ascending">Price Ascending</string>
+    <string name="high_to_low">High to Low</string>
+    <string name="low_to_high">Low to High</string>
+</resources>
